@@ -1,0 +1,17 @@
+Srikanth Tumati
+===============
+
+Tests Performed
+---------------
+
+1) Loading main web page.
+
+2) Verifying pagination was working.
+
+3) Testing pagination extensively by going to a lot of pages.
+
+4) Clicking on market names and checking that the detailed description page works.
+
+5) Verifying search works with just zip code and distance.
+
+6) Testing that search works with city and state and distance.

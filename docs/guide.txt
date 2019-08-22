@@ -1,0 +1,13 @@
+Srikanth Tumati
+===============
+
+Guide
+-----
+
+1) The main page shows 20 results at a time from the database. Clicking the buttons on the bottom of the page will allow you to see additional results. 
+
+2) The search functionality works if the user gives the maximum distance for the search and then either gives the state AND the city or just the zip code.
+
+3) On the main page (and search page), the market names are links and once clicked, will redirect to another page where all details of the market are displayed. 
+
+4) For values that are not present in the database (some entries did not have zip code etc...), a value of "-1" is used.
